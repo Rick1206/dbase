@@ -1,0 +1,1 @@
+furniture/BALABALA/pic-s/ba-01_s.jpg,furniture/BALABALA/ba-01.jpg;furniture/BALABALA/pic-s/ba-02_s.jpg,furniture/BALABALA/ba-02.jpg;furniture/BALABALA/pic-s/ba-03_s.jpg,furniture/BALABALA/ba-03.jpg;furniture/BALABALA/pic-s/ba-04_s.jpg,furniture/BALABALA/ba-04.jpg;furniture/BALABALA/pic-s/ba-05_s.jpg,furniture/BALABALA/ba-05.jpg;

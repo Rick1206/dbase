@@ -1,0 +1,4 @@
+@charset "utf-8";
+
+html body{margin:0;padding:0;text-align:center;height:100%; overflow:auto; background:#393636;}
+object{position:absolute;outline:none;top:50px;left:50%;margin-left:-474px;}

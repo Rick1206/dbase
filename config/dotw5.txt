@@ -1,0 +1,1 @@
+dot/CHAUMET/pic-s/1.jpg,dot/CHAUMET/1.jpg;dot/CHAUMET/pic-s/2.jpg,dot/CHAUMET/2.jpg;dot/CHAUMET/pic-s/3.jpg,dot/CHAUMET/3.jpg;dot/CHAUMET/pic-s/4.jpg,dot/CHAUMET/4.jpg;dot/CHAUMET/pic-s/5.jpg,dot/CHAUMET/5.jpg;dot/CHAUMET/pic-s/IMG_0540.jpg,dot/CHAUMET/IMG_0540.jpg;dot/CHAUMET/pic-s/IMG_0596.jpg,dot/CHAUMET/IMG_0596.jpg

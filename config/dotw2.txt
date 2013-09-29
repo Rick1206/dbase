@@ -1,0 +1,1 @@
+dot/Bvlgari/pic-s/BLV-01_s.jpg,dot/Bvlgari/BLV-01.jpg;dot/Bvlgari/pic-s/BLV-02_s.jpg,dot/Bvlgari/BLV-02.jpg;dot/Bvlgari/pic-s/BLV-03_s.jpg,dot/Bvlgari/BLV-03.jpg;dot/Bvlgari/pic-s/BLV-04_s.jpg,dot/Bvlgari/BLV-04.jpg;dot/Bvlgari/pic-s/BLV-05_s.jpg,dot/Bvlgari/BLV-05.jpg;dot/Bvlgari/pic-s/BLV-06_s.jpg,dot/Bvlgari/BLV-06.jpg;dot/Bvlgari/pic-s/BLV-07_s.jpg,dot/Bvlgari/BLV-07.jpg

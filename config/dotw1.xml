@@ -1,0 +1,113 @@
+<gallery>
+
+	<props radius="200"
+		   pxspace="20"
+		   picwidth="410"
+		   picheight="308" />
+
+	<col>
+
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-01_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-01.jpg</pic>
+
+			<cap>Image 1_1</cap>
+
+		</tile>
+
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-02_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-02.jpg</pic>
+
+			<cap>Image 1_2</cap>
+
+		</tile>
+
+
+
+	</col>
+
+	<col>
+
+
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-03_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-03.jpg</pic>
+
+			<cap>Image 1_1</cap>
+
+		</tile>
+
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-04_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-04.jpg</pic>
+
+			<cap>Image 1_1</cap>
+
+		</tile>
+
+
+
+
+
+	</col>
+
+	<col>
+
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-05_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-05.jpg</pic>
+
+			<cap>Image 1_2</cap>
+
+		</tile>
+
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-06_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-06.jpg</pic>
+
+			<cap>Image 2_3</cap>
+
+		</tile>
+
+
+
+	</col>
+
+	<col>
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-07_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-07.jpg</pic>
+
+			<cap>Image 1_1</cap>
+
+		</tile>
+		
+		<tile>
+
+			<thumb>pic/dot/Harrods/pic-s/har-07_s.jpg</thumb>
+
+			<pic>pic/dot/Harrods/har-07.jpg</pic>
+
+			<cap>Image 1_1</cap>
+
+		</tile>
+
+
+	</col>
+
+</gallery>
